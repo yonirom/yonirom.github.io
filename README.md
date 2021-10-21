@@ -1,4 +1,1 @@
-yonirom.github.io
-=================
-
-my test page
+bling.co.il for github pages
